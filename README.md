@@ -1,13 +1,13 @@
-## Hi folks 👋
+## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 [![Linkedin: guemesturb](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandroguemes/)](https://www.linkedin.com/in/alejandroguemes/)
 
-### Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=guemesturb.visitor-badge)
+My name is Alejandro Güemes and I'm a data scientist and scientific researcher. I'm from Spain, living in Madrid and currently working at MCA Engineering. I also collaborate with the Aerospace Engineering Research Group at Universidad Carlos III de Madrid.
 
-- 🔭 I’m currently working on MCA Engineering and collaborating with Universidad Carlos III de Madrid
 - 🌱 I’m currently learning reinforcement learning, graph networks and magnetohydrodynamics
 - 📫 How to reach me: guemes.turb@gmail.com
 - 💬 Ask me about turbulence, deep learning and air traffic management
 - 😄 Pronouns: he/him
+- Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=guemesturb.visitor-badge)
 
 ## &#x1f4c8; GitHub Stats
 
