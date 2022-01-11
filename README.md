@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/guemesturb/guemesturb">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guemesturb&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&langs_count=3" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=guemesturb&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" alt="guemesturb's GitHub Stats" />
 </a>
 <a href="https://github.com/guemesturb/guemesturb">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=guemesturb&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" alt="guemesturb's GitHub Stats" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guemesturb&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&langs_count=3&count_private=true" />
 </a>
 
 
