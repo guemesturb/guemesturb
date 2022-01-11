@@ -1,5 +1,7 @@
-### Hi there 👋
-[![Linkedin: guemesturb](https://img.shields.io/badge/-guemesturb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandroguemes/)](https://www.linkedin.com/in/alejandroguemes/)
+### Hi there, I'm Alejandro Güemes 👋
+[![Linkedin: guemesturb](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandroguemes/)](https://www.linkedin.com/in/alejandroguemes/)
+
+### Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=guemesturb.visitor-badge)
 
 - 🔭 I’m currently working on MCA Engineering
 - 📫 How to reach me: guemes.turb@gmail.com
@@ -22,4 +24,4 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guemesturb&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=guemesturb.visitor-badge)
+
