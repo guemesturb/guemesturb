@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Linkedin: guemesturb](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandroguemes/)](https://www.linkedin.com/in/alejandroguemes/)
 
 - 🔭 I’m currently working on MCA Engineering
 - 📫 How to reach me: guemes.turb@gmail.com
