@@ -9,6 +9,12 @@ My name is Alejandro Güemes and I'm a data scientist and scientific researcher.
 - 😄 Pronouns: he/him
 - Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=guemesturb.visitor-badge)
 
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/guemesturb/guemesturb">
