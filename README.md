@@ -19,6 +19,7 @@ My name is Alejandro Güemes and I'm a data scientist and scientific researcher.
 ![](https://img.shields.io/badge/Code-Scikit-informational?style=flat&logo=Scikit-Learn&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Spark-informational?style=flat&logo=ApacheSpark&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=gnu-bash&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++-bash&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Hive-informational?style=flat&logo=ApacheHive&color=2bbc8a)
