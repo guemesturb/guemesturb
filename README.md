@@ -2,7 +2,7 @@
 [![Linkedin: guemesturb](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alejandroguemes/)](https://www.linkedin.com/in/alejandroguemes/)
 [![Linkedin: guemesturb](https://img.shields.io/badge/-GoogleScholar-blue?style=flat-square&logo=GoogleScholar&logoColor=white&link=https://scholar.google.com/citations?user=6RRM4IEAAAAJ&hl=es&authuser=1&oi=ao)](https://scholar.google.com/citations?user=6RRM4IEAAAAJ&hl=es&authuser=1&oi=ao)
 
-My name is Alejandro Güemes and I'm a data scientist and scientific researcher. I'm from Spain, living in Madrid and currently working at MCA Engineering. I also collaborate with the Aerospace Engineering Research Group at Universidad Carlos III de Madrid.
+My name is Alejandro Güemes and I'm a data scientist and scientific researcher. I'm from Spain, living in Madrid and currently working at Boeing Research & Technology. I also collaborate with the Aerospace Engineering Research Group at Universidad Carlos III de Madrid.
 
 - 🌱 I’m currently learning reinforcement learning, graph networks and magnetohydrodynamics
 - 📫 How to reach me: guemes.turb@gmail.com
